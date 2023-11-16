@@ -13,4 +13,5 @@ Flask API was used to design an app that pulls two types of queries: Static and 
 
 ## Attributions
 
-All information sourced and generated in this code is from the course material.
+All information sourced and generated in this code is from the course material:<br/>
+Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910, https://journals.ametsoc.org/view/journals/atot/29/7/jtech-d-11-00103_1.xmlLinks
